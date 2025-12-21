@@ -1,0 +1,11 @@
+data:
+  N_time: 7320
+
+  # fraction of total time dimension used for each split
+  size_split:
+    train: 0.8
+    val: 0.1
+    test: 0.1
+
+  # selected moisture variable
+  which_moisture: "Q"
